@@ -57,8 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - Chimaobi David Ibe ([https://twitter.com/cdavidibe](https://www.linkedin.com/in/chimaobidavidibe/))
-
+Your Name - Chimaobi David Ibe (https://www.linkedin.com/in/chimaobidavidibe/)
 Project Link: https://github.com/David-Ibe/stable-stride-capital
 
 ## Acknowledgments
