@@ -6,13 +6,13 @@ A modern investment management firm website built with Next.js, featuring secure
 
 ## Features
 
-- 🔐 Secure authentication with Clerk
-- 🎨 Modern UI with custom styling
-- 📱 Fully responsive design
-- 🚀 Built with Next.js 14 and TypeScript
-- 🎯 Protected routes and role-based access
-- 💼 Professional investment firm layout
-- 🔄 Real-time user state management
+-  Secure authentication with Clerk
+-  Modern UI with custom styling
+-  Fully responsive design
+-  Built with Next.js 14 and TypeScript
+-  Protected routes and role-based access
+-  Professional investment firm layout
+- Real-time user state management
 
 ## Tech Stack
 
